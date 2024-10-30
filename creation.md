@@ -8,7 +8,8 @@
  <img width="1440" alt="Screen Shot 2024-10-29 at 9 19 21 PM" src="https://github.com/user-attachments/assets/4145fccd-e3c0-4237-8273-a6cc3f1a883c">
 
  Database Creation - MongoDB Atlas
- 
+ <img width="1440" alt="Screen Shot 2024-10-29 at 10 11 58 PM" src="https://github.com/user-attachments/assets/837fadd8-7e38-4c05-851e-3ed0e71eea99">
+
  Configuration - MongoDB Atlas
 
  Database Creation - Redis Cloud
