@@ -16,5 +16,8 @@ SUCCESS
 <img width="1440" alt="Screen Shot 2024-10-29 at 11 11 57 PM" src="https://github.com/user-attachments/assets/41697601-187d-413d-92eb-95960b5be261">
 
  Database Creation - Redis Cloud
+ <img width="1440" alt="Screen Shot 2024-10-29 at 11 33 14 PM" src="https://github.com/user-attachments/assets/2b9c3656-c8b1-4080-be4e-c472193ce85c">
 
- Configuration - Redis Cloud
+Configuration - Redis Cloud
+<img width="1440" alt="Screen Shot 2024-10-29 at 11 32 43 PM" src="https://github.com/user-attachments/assets/ea4918bc-52e3-4b6c-b3ad-0cd57100b7c1">
+Having difficulty at this part
